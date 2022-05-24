@@ -1,7 +1,4 @@
 package com.example.a11stapp;
-
-
-
 import java.util.ArrayList;
 
 public class MovieListResult {
